@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+groq
+pymupdf
+beautifulsoup4
+python-dotenv
+pydantic-settings
+tiktoken

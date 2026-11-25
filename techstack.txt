@@ -1,0 +1,8 @@
+Component	Technology	         Why
+Backend	        FastAPI	                 Simple, production-style REST API
+Vector database	ChromaDB	         Free, local persistence, metadata filtering
+Embeddings	all-MiniLM-L6-v2         Local embeddings, no API cost
+LLM	        Groq API	         Fast inference with a free/low-cost option
+PDF parsing	PyMuPDF	Reliable         PDF text extraction
+HTML parsing	BeautifulSoup	         Extract readable webpage content
+Evaluation	Python + custom metrics	 Transparent, reproducible measurements

@@ -1,0 +1,23 @@
+{
+  "self_hosted_monthly_cost_usd": {
+    "100000": null,
+    "1000000": null,
+    "10000000": null
+  },
+  "pinecone_standard_monthly_cost_usd": {
+    "100000": null,
+    "1000000": null,
+    "10000000": null
+  },
+  "qdrant_standard_monthly_cost_usd": {
+    "100000": null,
+    "1000000": null,
+    "10000000": null
+  },
+  "notes": [
+    "Enter monthly infrastructure costs for self-hosted ChromaDB.",
+    "Enter actual managed database estimates from provider calculators.",
+    "Do not treat null values as zero cost.",
+    "Managed costs depend on dimensions, metadata, query volume, replicas, and resource configuration."
+  ]
+}

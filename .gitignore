@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+
+chroma_db/
+data/documents/
+
+logs/
+*.log
+
+evaluation/results/
